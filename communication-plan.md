@@ -10,7 +10,7 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+| Mon |Zoom | Backlog                 |
 
 ## Communication Channels
 
