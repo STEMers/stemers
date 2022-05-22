@@ -32,6 +32,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _Sanne_| 9 - 16:30 | 9 - 16:30 | 9 - 16:30  | 9 - 16:30| 9 - 16:30| 9 - 16:30  | 9 - 16:30 |
 | _Ömer_| 19 - 24 | 22 - 24 | 22 - 24  | 19 - 24 | 19 - 24 | 19 - 24   | 19 - 24  |
+| _Abu_| 18:00-22:00 | Not available | Not available  | 18:00-22:00| 18:00-22:00| 10 - 17:00  | 10 - 17:00 |
 
 ### How many hours everyone has per day:
 
