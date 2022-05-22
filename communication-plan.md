@@ -35,6 +35,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _Abu_| 18:00-22:00 | Not available | Not available  | 18:00-22:00| 18:00-22:00| 10 - 17:00  | 10 - 17:00 |
 | _Ashenafi(Early)_| 15 - 21 | 15 - 21 | 15 - 21 | 15 - 21 | 15 - 21 | 13 - 24   | 13 - 24  |
 | _Ashenafi(Late)_| 9 - 11:30 | 9 - 11:30 | 9 - 11:30 | 9 - 11:30 | 9 - 11:30 | 13-24   | 13 - 24  |
+| Kenneth |16:00-22:00|16:00-22:00|16:00-22:00|16:00-22:00|16:00-22:00|on apointment|on apointment|
 
 ### How many hours everyone has per day:
 
