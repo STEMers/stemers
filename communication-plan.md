@@ -31,7 +31,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Name    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _Sanne_| 9 - 16:30 | 9 - 16:30 | 9 - 16:30  | 9 - 16:30| 9 - 16:30| 9 - 16:30  | 9 - 16:30 |
-| 
+| _Ömer_| 19 - 24 | 22 - 24 | 22 - 24  | 19 - 24 | 19 - 24 | 19 - 24   | 19 - 24  |
 
 ### How many hours everyone has per day:
 
