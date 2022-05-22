@@ -39,7 +39,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day:
 
 - Ashenafi: _3h to 5h on average_; Note that I have filled 2 different availabilities for the weekdays as my shift at work changes weekly. Early and Late shifts
-- name: _6h_;
+- Abu: 3h to 4h on average;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
