@@ -2,15 +2,19 @@
 
 ## Stop Doing
   - Ömer: Big dreams
+  - Alina: add new thoughts to must have section of backlog.
 
 ## Continue Doing
   - Ömer: Chill out
+  - Alina: project planning
 
 ## Start Doing
   - Ömer: Remotivate yourself
+  - Alina: review figma.
 
 ## Lessons Learned
   - Ömer: -
+  - Alina: Predicting users choices. put yourself in her/ his place and think about what you would do. 
 
 ---
 
