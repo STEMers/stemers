@@ -10,7 +10,9 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-| Mon |Zoom | Backlog                 |
+| Monday, 20.00 | Zoom | Backlog      |
+| Thursday, 20.00 | Zoom | Backlog - Setup |
+| Other days | Discord | Any          |
 
 ## Communication Channels
 
