@@ -3,18 +3,22 @@
 ## Stop Doing
   - Ömer: Big dreams
   - Alina: add new thoughts to must have section of backlog.
+  - Sanne: Feeling bad that there is a lot I do not understand
 
 ## Continue Doing
   - Ömer: Chill out
   - Alina: project planning
+  - Sanne: Trying to learning by doing
 
 ## Start Doing
   - Ömer: Remotivate yourself
   - Alina: review figma.
+  - Sanne: Ask what I can do to assist (with my skills)
 
 ## Lessons Learned
   - Ömer: -
   - Alina: Predicting users choices. put yourself in her/ his place and think about what you would do. 
+  - Sanne: Horible time management because of school closed
 
 ---
 
