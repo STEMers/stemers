@@ -1,5 +1,8 @@
-[user persona 1](https://i.imgur.com/ClyNo8o.png)
 
-[user persona 2](https://i.imgur.com/nLSagJV.png)
+# user personas
 
-[user persona 3](https://i.imgur.com/itpgRvi.png)
+![user persona 1](images/user-persona1.png)
+
+![user persona 2](images/user-persona2.png)
+
+![user persona 3](images/user-persona3.png)
