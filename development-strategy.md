@@ -1,55 +1,112 @@
 # Project Name
 
-<!-- describe your project -->
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
-
----
-
-<!-- copy this section once for each must-have user story -->
 
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
 
-> "as a ... i can ... so that ..."
+1. As a user, I can see a simple front page with a logo, nominate star button, invite star button and scrolling down you have featured stars .
+  
 
-<!-- write any extra notes or description -->
-
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
 
 ### Logic: user story
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+  - [ ] 
+  - [ ]
 
 ### Interface: user story
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+ - [ ] create logo components
+ - [ ] create invite and nominate buttons
+ - [ ] create react components
 
 ### Interaction: user story
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+  - [ ] 
+  - [ ] 
 
 ### Documentation: user story
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+  - [ ] 
+  - [ ] 
+
+
+2. As a user, I can register and login to the platform
+
+### Logic: user story
+
+  - [ ] 
+  - [ ]
+
+### Interface: user story
+
+ - [ ] create register and login components
+ - [ ] create css files for these components
+
+### Interaction: user story
+
+  - [ ] create api calls for html register and login
+  - [ ] 
+
+### Documentation: user story
+
+  - [ ] 
+
+### Data: 
+ - [ ] create user table in the backend
+
+
+3. As a user, I can know about this platform and the criteria it takes to show recognition and nomination
+
+### Logic: user story
+
+  - [ ] 
+  - [ ]
+
+### Interface: user story
+
+ - [ ] create component how the platform works
+ - [ ] create short info component in the frontpage
+ - [ ] create css files for these components
+
+### Interaction: user story
+
+  - [ ] read more button component
+  - [ ] create css files for this
+
+### Documentation: user story
+
+  - [ ] 
+
+### Data: 
+
+
+4. As a user, I can create, edit, delete a STEM profile for myself
+
+### Logic: user story
+
+  - [ ] 
+  - [ ]
+
+### Interface: user story
+
+ - [ ] create STEM profile component
+ - [ ] create css files for this
+ - [ ] 
+
+### Interaction: user story
+
+  - [ ] create api call for STEM profile
+  - [ ] 
+
+### Documentation: user story
+
+  - [ ] 
+
+### Data: 
+
+  - [ ] Create a table for STEM profile in the strapi project
