@@ -32,7 +32,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Name    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _Sanne_| 9 - 16:30 | 9 - 16:30 | 9 - 16:30  | 9 - 16:30| 9 - 16:30| on apointment  | on apointment |
+| _Sanne_| 9 - 16:30 | 9 - 16:30 | 9 - 16:30  | 12:30 - 16:30| 9 - 16:30| on apointment  | on apointment |
 | _Ömer_| 19 - 24 | 22 - 24 | 22 - 24  | 19 - 24 | 19 - 24 | 19 - 24   | 19 - 24  |
 | _Abu_| 18:00-22:00 | Not available | Not available  | 18:00-22:00| 18:00-22:00| 10 - 17:00  | 10 - 17:00 |
 | _Ashenafi(Early)_| 15 - 21 | 15 - 21 | 15 - 21 | 15 - 21 | 15 - 21 | 13 - 24   | 13 - 24  |
