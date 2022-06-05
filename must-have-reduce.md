@@ -48,14 +48,15 @@
 
 ==============About page =======================  
 3.As a user, I can know about this platform and the criteria it takes to show recognition and nomination. __And things about STEMers team(14.)__.  
-// How to do this? build a page and give long descriptions how we give the star to a woman? 
+// How to do this? build a page and give long descriptions how we give the star to a woman?  
+
 // need to update about page ui
 
-14.~~As a user, I can see About Us (builders info) ~~+  
+14.~~As a user, I can see About Us (builders info)+~~  
 //(suggestion 3+14 -> 3)
 
 ==============stars page =======================  
-5.As a user, I can see all STEM profiles in the platform. +
+5.As a user, I can see all STEM profiles in the platform. +  
 // by default, render the list of all users on stars page?
 
 16.As a user, I need to see a list of women in STEM who got recognized and received badges in their categories.  
