@@ -1,5 +1,7 @@
 # Retrospective
 
+## Week 1
+
 ## Stop Doing
   - Ömer: Big dreams
   - Alina: add new thoughts to must have section of backlog.
@@ -36,3 +38,163 @@
 
 ### Or remove extra steps?
   - Ömer: No.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Week 2
+
+## Stop Doing
+  
+
+## Continue Doing
+  
+  
+  
+## Start Doing
+ 
+ 
+## Lessons Learned
+  
+  
+---
+
+## Strategy vs. Board
+ 
+ 
+### What parts of your plan went as expected?
+ 
+ 
+
+### What parts of your plan did not work out?
+  
+  
+### Did you need to add things that weren't in your strategy?
+  
+  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Week 3
+
+## Stop Doing
+ 
+ 
+## Continue Doing
+  
+  
+## Start Doing
+  
+  
+## Lessons Learned
+  
+  ---
+  
+
+## Strategy vs. Board
+
+
+### What parts of your plan went as expected?
+  
+
+### What parts of your plan did not work out?
+ 
+ 
+### Did you need to add things that weren't in your strategy?
+ 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Week 4
+
+## Stop Doing
+  
+  
+## Continue Doing
+  
+  
+
+## Start Doing
+  
+  
+
+## Lessons Learned
+  
+  
+---
+
+## Strategy vs. Board
+ 
+ 
+### What parts of your plan went as expected?
+ 
+ 
+### What parts of your plan did not work out?
+  
+
+### Did you need to add things that weren't in your strategy?
+ 
+ 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Week 5
+
+## Stop Doing
+  
+  
+
+## Continue Doing
+  
+  
+
+## Start Doing
+  
+  
+## Lessons Learned
+  
+  
+---
+
+## Strategy vs. Board
+ 
+ 
+
+### What parts of your plan went as expected?
+  
+  
+### What parts of your plan did not work out?
+  
+  
+
+### Did you need to add things that weren't in your strategy?
+  
+  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Week 6
+
+## Stop Doing
+  
+  
+## Continue Doing
+  
+## Start Doing
+ 
+ 
+## Lessons Learned
+  
+  
+---
+
+## Strategy vs. Board
+
+
+### What parts of your plan went as expected?
+  
+
+### What parts of your plan did not work out?
+ 
+
+### Did you need to add things that weren't in your strategy?
+ 
+
