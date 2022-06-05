@@ -79,9 +79,11 @@
 ## Week 3
 
 ## Stop Doing
+- Sanne: Procrasinating
  
  
 ## Continue Doing
+Sanne: I am trying to do more planning and to fully understand everything we are trying to do
   
   
 ## Start Doing
