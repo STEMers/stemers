@@ -46,14 +46,17 @@
   
 
 ## Continue Doing
+- Sanne: Adding setup files to main
+
   
   
   
 ## Start Doing
+- Sanne: Using and following [Project Board](https://github.com/orgs/STEMers/projects/4)
  
  
 ## Lessons Learned
-  
+ 
   
 ---
 
