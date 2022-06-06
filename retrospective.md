@@ -43,37 +43,52 @@
 ## Week 2
 
 ## Stop Doing
-  
+- Alina: add new thoughts to must have section of backlog
 
 ## Continue Doing
 - Sanne: Adding setup files to main
-
-  
+- Alina: 
+   - project planning, go through each user story(must have) and find the matching ui.
+   - try to deploy data model in Strapi, this was tough.
   
   
 ## Start Doing
 - Sanne: Using and following [Project Board](https://github.com/orgs/STEMers/projects/4)
+- Alina: prepare to write code in frontend part.
  
  
 ## Lessons Learned
- 
-  
+- Alina: data and data model are different things. We can hard code data before we have a working backend. It means we can write React code from now.
 ---
 
 ## Strategy vs. Board
+ - Alina: 
+   - removed some user stories from must have to should have.   
+   - start writing strategy version 2 based on on new must have section.
  
  
 ### What parts of your plan went as expected?
- 
+- Alina:  We made project repos with React and Strapi projects. And we also deployed them separately on Netlify and Heroku.
  
 
 ### What parts of your plan did not work out?
+- Alina: communication. It's difficult to order a meeting.
   
   
 ### Did you need to add things that weren't in your strategy?
+- Alina: 
+   - sign in/ sign up/ sign out section
+   - invite form
+   - profile form
+   - nomination section
+   - category section
   
-  
-
+### Or remove extra steps?
+ - Alina: 
+   - remove multiple social media links. change from 6 to 3. 
+   - remove nomination page.
+   - combine about platform and about team pages into one.
+   - remove list all comments feature.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Week 3
