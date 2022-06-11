@@ -35,7 +35,11 @@ A collection of user stories for your project. Stories inside of each priority l
 
 13.As a user, I need to see a list of women in STEM who got recognized and received badges in their categories.  
 
-14.As a user, I need to have a search bar and dropdown list filtering part to select the countries and categories: Science, Technology, Engineering, Math.
+14.As a user, I need to have a filtering part to select the countries and categories: Science, Technology, Engineering, Math.
+
+=============== other ===================
+
+15.As a user, I need to have a search bar.
 
 ## Should-Haves
 

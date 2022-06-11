@@ -46,6 +46,7 @@
 // still missing the categories ui, search bar ui  
 // in group discussion, filter is not a dropdown list, it's a section on stars main
 
+=============== other ===================
 18. As a user, I need to have a search bar.
  // suggestion, add search bar in header, so user can search in every page
 
