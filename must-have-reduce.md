@@ -42,8 +42,12 @@
 // missing categories ui  
 // does this mean in stars page, list and sort user by the times of nomination?
 
-17.As a user, I need to have a search bar and dropdown list filtering part to select the countries and categories: Science, Technology, Engineering, Math. +  
+17.As a user, I need to have a __search bar__ and __dropdown list filtering part__ to select the countries and categories: Science, Technology, Engineering, Math. +  
 // still missing the categories ui, search bar ui  
+// in group discussion, filter is not a dropdown list, it's a section on stars main
+
+18. As a user, I need to have a search bar.
+ // suggestion, add search bar in header, so user can search in every page
 
 ## should have
 
