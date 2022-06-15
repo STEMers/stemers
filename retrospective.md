@@ -129,11 +129,12 @@ Sanne: I am trying to do more planning and to fully understand everything we are
   
   
 ## Continue Doing
+- Learning while doing
   
   
 
 ## Start Doing
-  
+  - Follow up on planning
   
 
 ## Lessons Learned
