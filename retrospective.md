@@ -126,6 +126,7 @@ Sanne: I am trying to do more planning and to fully understand everything we are
 ## Week 4
 
 ## Stop Doing
+- Believing that if you do not know how to code you do not contribute
   
   
 ## Continue Doing
@@ -152,6 +153,7 @@ Sanne: I am trying to do more planning and to fully understand everything we are
   
 
 ### Did you need to add things that weren't in your strategy?
+- We have choosen to put more focus into having a small but working website because with the group reduced it would not be possile to do everything we had in mind
  
  
 
